@@ -1,2 +1,2 @@
 # Image-classification
-Using AlexNet pre-trained model, classification of food dishes. 
+Using AlexNet-ResNet pre-trained models, classification of food dishes. 
